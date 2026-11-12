@@ -15,7 +15,7 @@ Porter ist ein Dateimanager mit zwei Spalten für macOS 27. Links ein Ordner, re
 - Sortieren per Klick auf den Spaltenkopf, gruppieren nach Art, Datum oder Größe. Jede Spalte merkt sich ihre eigene Ansicht.
 
 ### Suchen und entpacken
-- command-F öffnet die Suche. Beim Tippen bleiben nur die Dateien stehen, deren Name passt. Mit dem Häkchen „Unterordner“ sucht Porter per Spotlight im ganzen Ordnerbaum und gruppiert die Treffer nach Unterordner. Gerade erst angelegte Dateien findet Spotlight allerdings erst nach einer Weile.
+- command-F öffnet die Suche. Beim Tippen bleiben nur die Dateien stehen, deren Name passt. Im Menü daneben stellst du ein, wie weit Porter sucht: nur im Ordner, im ganzen Ordnerbaum oder auf allen Laufwerken. Die beiden weiten Suchen laufen über Spotlight, die Treffer stehen nach Ordner sortiert untereinander. Laufwerke ohne Spotlight-Index tauchen dabei nicht auf, und frisch angelegte Dateien findet Spotlight erst nach einer Weile.
 - Doppelklick auf ein ZIP-, 7z- oder RAR-Archiv, und Porter packt es selbst aus. Ein Finder-Fenster geht dabei nicht auf. Der Inhalt liegt danach neben dem Archiv und ist markiert, auch Archive mit Passwort klappen. Dafür braucht Porter das kostenlose 7-Zip (`brew install sevenzip`).
 
 ### Aufräumen
