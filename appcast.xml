@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.3.0</title>
-            <pubDate>Thu, 12 Nov 2026 19:53:21 +0100</pubDate>
+            <title>0.3.1</title>
+            <pubDate>Thu, 12 Nov 2026 20:03:28 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Suche auf allen Laufwerken.</b> Neben dem Suchfeld wählst du jetzt, wo Porter sucht: „Ordner“ (nur hier), „Unterordner“ (ganzer Ordnerbaum) oder „Alle Laufwerke“. Bei „Alle Laufwerke“ sucht Porter per Spotlight auf dem ganzen Mac samt eingebundener Laufwerke und zeigt die Treffer nach Ordner gruppiert, dein Benutzerordner als „~“. Laufwerke, die Spotlight nicht indiziert, fehlen dabei. Findet Spotlight mehr als 2.000 Treffer, zeigt Porter die ersten 2.000 und unten die Gesamtzahl („2.000 von 57.526 Treffern“). Spotlight zeigt Porter nur, was Porter lesen darf: Für Treffer in Cloud-Ordnern wie Google Drive braucht Porter den vollen Festplattenzugriff.</p><h3>Verbessert</h3><p>• <b>Ruhigere Spaltenköpfe:</b> Über der Rollleiste sitzt kein dunkler Kasten mehr, und der Ordnername oben in jeder Spalte ist etwas kleiner (14 statt 16 Punkte). Das spart Platz in schmalen Fenstern.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.3.0/Porter-v0.3.0-macOS.zip" length="3670397" type="application/octet-stream" sparkle:edSignature="49CTFgfrwl4PIN4UUQGfEw8NkGCkKSwkMtGRF0mmp+Kr8t0zDRJ+p0XCaPAKlXcEV68eR0yZlxyerSNu0tp8Bw=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Verbessert</h3><p>• <b>Schmale Rollbalken, auch mit Maus.</b> Ist eine Maus angeschlossen, wählt macOS für Listen die alten, immer sichtbaren Rollbalken. Die nahmen in jeder Spalte 17 Punkte Breite weg, und unten rechts saß ein heller Kasten. Porter nutzt jetzt immer die schmalen Rollbalken, die beim Scrollen erscheinen. Zum Ziehen fährst du an den rechten Rand, dann wird der Balken breiter.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.3.1/Porter-v0.3.1-macOS.zip" length="3670999" type="application/octet-stream" sparkle:edSignature="nGHFCNvvgHG88iB9Q4B++fV6JWFdURgD3iSoitDc09e8atsoxIbF2ayrmo4BN8SGzgKMDZkkEcs+azR2XAHPBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ohzTtJafcMmPvs3MrDV+w/w82w3hKtHw6KYxQJvzkur/U0eLvIwQbEJY/l0eUzHtnUjuSvgtNxMTIippejUaCw==
-length: 2132
+edSignature: 65ptcV3AgNZ7mLDpSa+PAVhyVFxrRANi7AsDPueq/IcAL6Ejb5SfKcvio9LrroRyhNKNQ7YTipjUl2ppoeVAAg==
+length: 1599
 -->
