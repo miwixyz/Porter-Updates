@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.2.1</title>
-            <pubDate>Thu, 12 Nov 2026 18:11:02 +0100</pubDate>
+            <title>0.2.2</title>
+            <pubDate>Thu, 12 Nov 2026 18:30:24 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Verbessert</h3><p>• <b>Seitenleiste in der Breite verstellbar:</b> Am rechten Rand ziehen macht sie schmaler (bis 150 Punkte) oder breiter (bis 300). Porter merkt sich die Breite, Doppelklick auf den Rand setzt sie zurück.</p><p>• <b>Seitlich scrollen in den Spalten:</b> Wird eine Spalte zu schmal, kürzt Porter die Namen nicht mehr unter 140 Punkte, sondern lässt die Liste seitlich rollen (Trackpad wischen oder shift + Mausrad). Passt alles hinein, erscheint kein Rollbalken. Bei Standardbreite der Seitenleiste bleiben Größe und Datum auch im kleinsten Fenster sichtbar.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.2.1/Porter-v0.2.1-macOS.zip" length="3658782" type="application/octet-stream" sparkle:edSignature="/MePE9lK8fEM0F6SI1Ylbtc8QqmDgwkvr++A4Hi5G8hRtwb94ih1RAOITqmw/rteeb6mEZa3iYYgtRPVOobLCw=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Behoben</h3><p>• <b>Spalten lassen sich breiter ziehen, und die Liste rollt dann seitlich.</b> In 0.2.1 sprang eine von Hand gezogene Breite beim nächsten Neuladen zurück, die Namensspalte ließ sich gar nicht verbreitern, und seitlich gerollt wurde nur in sehr engen Fenstern. Jetzt bleiben gezogene Breiten je Spalte gespeichert. Ist die Summe breiter als die Spalte, rollt sie seitlich. Rechtsklick auf die Spaltenköpfe → „Spaltenbreiten zurücksetzen“ stellt den Ausgangszustand wieder her.</p><h3>Verbessert</h3><p>• <b>Befehlsleiste unten ausblendbar, für mehr Platz in den Listen:</b> Menü Darstellung → „Befehlsleiste ein/aus“ oder command-control-B, auch per Rechtsklick auf die Leiste oder in einen leeren Bereich einer Spalte. Porter merkt sich die Einstellung. F2, F5, F6, F7 und F8 wirken weiter, Fortschritt und Hinweise erscheinen auch ohne Leiste.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.2.2/Porter-v0.2.2-macOS.zip" length="3666947" type="application/octet-stream" sparkle:edSignature="ZbiJoRI6pPWvBFTlOdnn0DnG6J2wOk6AGx2KQJ9k/2XcutYes5lufiMQoyMNkMi+Bt2S3K7aE2vYXRx3MRhxAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: iEkaD1kmfhHrxqnvEC2yGKMH6QVgt7McB1UETCnOjmZTnEAFi9+s9rBbqc3DR3yZ0Jx0dvxZ6mIWWsSvmG2HBQ==
-length: 1783
+edSignature: zlf8uMB8w4ji3I9K/iurbG6oX46PpJSIQ5Pgwtfu1cUAP02dnRME8/QA8ULm2iA39um1Gx+/vWXrO6AR2pzuCA==
+length: 2083
 -->
