@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.2.0</title>
-            <pubDate>Thu, 12 Nov 2026 17:49:57 +0100</pubDate>
+            <title>0.2.1</title>
+            <pubDate>Thu, 12 Nov 2026 18:11:02 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Archive entpackt Porter selbst.</b> Doppelklick auf eine ZIP-, 7z- oder RAR-Datei (oder Rechtsklick → „Entpacken“) legt den Inhalt neben das Archiv und markiert ihn in der Spalte. Es öffnet sich kein Finder-Fenster mehr. Ein einzelnes Objekt landet direkt daneben, mehrere in einem Ordner mit dem Namen des Archivs. Vorhandenes wird nie überschrieben („Name 2“). Bei Archiven mit Passwort fragt Porter danach und speichert es nirgends. Braucht 7-Zip (`brew install sevenzip`), ohne 7-Zip öffnet macOS das Archiv wie bisher.</p><p>• <b>Suche</b> (command-F oder Lupe im Spaltenkopf): filtert beim Tippen den aktuellen Ordner nach Namen. Mit „Unterordner“ sucht Porter per Spotlight im ganzen Ordnerbaum und zeigt die Treffer nach Unterordner gruppiert. Return springt in die Treffer, Esc schließt die Suche.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.2.0/Porter-v0.2.0-macOS.zip" length="3652008" type="application/octet-stream" sparkle:edSignature="BIGArvkRBR0ONzbrRQZyQOteFLxQqZmQZDnR7kJlrtS7BQlx9SXF0baOAN9jbpcQ8CX6dT79KP+2V3x5et5pBg=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Verbessert</h3><p>• <b>Seitenleiste in der Breite verstellbar:</b> Am rechten Rand ziehen macht sie schmaler (bis 150 Punkte) oder breiter (bis 300). Porter merkt sich die Breite, Doppelklick auf den Rand setzt sie zurück.</p><p>• <b>Seitlich scrollen in den Spalten:</b> Wird eine Spalte zu schmal, kürzt Porter die Namen nicht mehr unter 140 Punkte, sondern lässt die Liste seitlich rollen (Trackpad wischen oder shift + Mausrad). Passt alles hinein, erscheint kein Rollbalken. Bei Standardbreite der Seitenleiste bleiben Größe und Datum auch im kleinsten Fenster sichtbar.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.2.1/Porter-v0.2.1-macOS.zip" length="3658782" type="application/octet-stream" sparkle:edSignature="/MePE9lK8fEM0F6SI1Ylbtc8QqmDgwkvr++A4Hi5G8hRtwb94ih1RAOITqmw/rteeb6mEZa3iYYgtRPVOobLCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: nI/pyIKut0pET1ISpC1Xy/pd1Th4Hj+vCWQg+OBoLz2mStzA2qdytmnIle/JX0xPlwIIZ41vD8pFT76lPnXVDg==
-length: 2043
+edSignature: iEkaD1kmfhHrxqnvEC2yGKMH6QVgt7McB1UETCnOjmZTnEAFi9+s9rBbqc3DR3yZ0Jx0dvxZ6mIWWsSvmG2HBQ==
+length: 1783
 -->
