@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.1.2</title>
-            <pubDate>Thu, 12 Nov 2026 17:14:06 +0100</pubDate>
+            <title>0.2.0</title>
+            <pubDate>Thu, 12 Nov 2026 17:49:57 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Verbessert</h3><p>• <b>Beide Spaltenköpfe sehen immer gleich aus.</b> Wird das Fenster schmaler, verkleinern sich beide gemeinsam: erst „Aufräumen“ mit Text, dann nur Symbole, dann ein „…“-Menü mit Neuer Tab, Orte und Aufräumen. Erst ganz zuletzt kürzt sich der Ordnername in der Mitte (voller Name im Tooltip). Vorher fehlte links bei 1080 Punkten Breite der „+“-Knopf.</p><h3>Behoben</h3><p>• <b>Kleine Bildschirme:</b> Das Fenster lässt sich jetzt bis auf 412 Punkte Höhe verkleinern (vorher mindestens 480). Auf einem Monitor mit 504 Punkten Höhe ragte es unten über den Rand, die F-Tasten-Leiste war abgeschnitten.</p><p>• <b>Vollbild:</b> Fährt die Maus an den oberen Rand, klappt macOS Menüleiste und Titelstreifen herein. Die verdeckten bisher den Spaltenkopf, dessen Knöpfe waren von oben nicht erreichbar. Im Vollbild beginnt der Inhalt jetzt unterhalb dieses Streifens.</p><p>• <b>Seitenleiste:</b> Kein breiter dunkler Rollbalken mehr, wenn in den Systemeinstellungen „Rollbalken immer einblenden“ gilt (etwa mit angeschlossener Maus). Rollen geht weiter.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.1.2/Porter-v0.1.2-macOS.zip" length="3610655" type="application/octet-stream" sparkle:edSignature="Yx8ihEc017/sDa4ibDqF/UoW6YlRvS63vRElcFfgqTVxboT379mvrCDlVImAGfeVM0mZr4wIhyVOD3MAy3DkCA=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Archive entpackt Porter selbst.</b> Doppelklick auf eine ZIP-, 7z- oder RAR-Datei (oder Rechtsklick → „Entpacken“) legt den Inhalt neben das Archiv und markiert ihn in der Spalte. Es öffnet sich kein Finder-Fenster mehr. Ein einzelnes Objekt landet direkt daneben, mehrere in einem Ordner mit dem Namen des Archivs. Vorhandenes wird nie überschrieben („Name 2“). Bei Archiven mit Passwort fragt Porter danach und speichert es nirgends. Braucht 7-Zip (`brew install sevenzip`), ohne 7-Zip öffnet macOS das Archiv wie bisher.</p><p>• <b>Suche</b> (command-F oder Lupe im Spaltenkopf): filtert beim Tippen den aktuellen Ordner nach Namen. Mit „Unterordner“ sucht Porter per Spotlight im ganzen Ordnerbaum und zeigt die Treffer nach Unterordner gruppiert. Return springt in die Treffer, Esc schließt die Suche.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.2.0/Porter-v0.2.0-macOS.zip" length="3652008" type="application/octet-stream" sparkle:edSignature="BIGArvkRBR0ONzbrRQZyQOteFLxQqZmQZDnR7kJlrtS7BQlx9SXF0baOAN9jbpcQ8CX6dT79KP+2V3x5et5pBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: y2z4+4+eNsJgIfSZL1pELEPSfFA8Jhj3YBbv7dxJDpNznzPjXKSNtoUeVRHmls4b6hbxsgURfB4SWmft6GoRCQ==
-length: 2304
+edSignature: nI/pyIKut0pET1ISpC1Xy/pd1Th4Hj+vCWQg+OBoLz2mStzA2qdytmnIle/JX0xPlwIIZ41vD8pFT76lPnXVDg==
+length: 2043
 -->
