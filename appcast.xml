@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.1.0</title>
-            <pubDate>Thu, 12 Nov 2026 15:03:58 +0100</pubDate>
+            <title>0.1.1</title>
+            <pubDate>Thu, 12 Nov 2026 15:26:20 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Zwei Spalten mit Tabs</b>, ganz per Tastatur: Tab wechselt die Spalte, F2/F5/F6/F7/F8 für Umbenennen, Kopieren, Verschieben, Neuer Ordner, Papierkorb. Nichts wird endgültig gelöscht.</p><p>• <b>Orte:</b> Seitenleiste mit eigenen Favoriten (hineinziehen, umsortieren), Laufwerke mit Auswerfen, iCloud und Cloud-Ordner; Ortsliste mit option-F1/option-F2, Ordnerdialog (command-O), „Gehe zu“ (command-shift-G).</p><p>• <b>Navigation:</b> Zurück, Vor, Hoch, Runter, anklickbare Pfadleiste, deutsche Ordnernamen.</p><p>• <b>Ansicht je Spalte:</b> Sortieren per Spaltenkopf, Gruppieren nach Art, Datum oder Größe, Spalten ein-/ausblenden, Ordner zuerst.</p><p>• <b>Kontextmenü:</b> Öffnen mit, Teilen, Dienste, Pfad kopieren, Im Finder zeigen, Terminal hier öffnen, Informationen, Ordnergröße auf Wunsch, Umbenennen per Klick auf den Namen.</p><p>• <b>Aufräumen:</b> Duplikate, große und alte Dateien, leere Ordner, Sortieren nach Art oder Monat, KI-Vorschlag mit Apples Sprachmodell auf dem Mac (sieht nur Dateinamen), Vorschau und Rückgängig.</p><p>• <b>Umwandeln:</b> Bilder in JPG, PNG, WebP, HEIC, AVIF (klein, mittel, groß), SVG, Bilder ↔ PDF.</p><p>• <b>Packen:</b> ZIP, ZIP mit AES-256, ZIP mit einfachem Passwort, verschlüsseltes DMG.</p><p>• <b>Massenumbenennen:</b> neuer Name, Suchen/Ersetzen, Nummerieren, Datum, Kleinschreibung, Unterstriche, Umlaute; Vorschau, Ergebnisanzeige, Rückgängig.</p><p>• <b>Menüleistensymbol</b> (ein- und ausblendbar) mit Favoriten und Laufwerken.</p><p>• <b>Schriftgröße</b> der Listen und der Seitenleiste mit command-Plus, command-Minus, command-0; bleibt gespeichert.</p><p>• <b>Design</b> im Schiefer-Look der App-Familie, hell und dunkel: schwebende Karten, Glas-Leisten, plastische Auswahl.</p><p>• <b>Updates über Sparkle</b> (Porter → Nach Updates suchen …).</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.1.0/Porter-v0.1.0-macOS.zip" length="3593494" type="application/octet-stream" sparkle:edSignature="VMqb9y8E/u3JC2JSO6lZjPE25560QzDlhXu38moy7iYhHDF/oUfeP5gxsq0BGWeYuqLCeiYBiUSV+4LnafYxCA=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Verbessert</h3><p>• <b>Kleines Fenster:</b> Der Spaltenkopf passt sich der Breite an. „Aufräumen“ wird zum Symbol, der Ordnername bleibt vollständig, nichts bricht mehr senkrecht um.</p><p>• <b>Pfadleiste</b> zeigt im schmalen Fenster die letzten Ordner mit Namen statt nur Symbole.</p><p>• <b>Größe und Datum</b> bleiben im schmalen Fenster sichtbar, die Namensspalte nutzt den restlichen Platz.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.1.1/Porter-v0.1.1-macOS.zip" length="3596567" type="application/octet-stream" sparkle:edSignature="WiPGkjYOYC1+jyFUq9TmOHQNOcdeSbSMYrJ4jV/0fZsMC0+3sumcI49fshFvZsaBzON0jqW/p22Q/EdRx0orDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 9/pMVtXJap+BqLUo0gXm8PTbiXNZ76lAszII2IVh0fFKasME8BeUC2uuAT1o1XiBn5QrahTVnNzhuX2rpv0nAg==
-length: 3077
+edSignature: aA3kw1yaDKb9omHRu5RZb+wW4TuR8RWm4qwA8IohydTvYAliv/H6sBoMDuO7mXGBCjhO5vlzZ8xo8yluxpVOAg==
+length: 1608
 -->
