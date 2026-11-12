@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.1.1</title>
-            <pubDate>Thu, 12 Nov 2026 15:26:20 +0100</pubDate>
+            <title>0.1.2</title>
+            <pubDate>Thu, 12 Nov 2026 17:14:06 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Verbessert</h3><p>• <b>Kleines Fenster:</b> Der Spaltenkopf passt sich der Breite an. „Aufräumen“ wird zum Symbol, der Ordnername bleibt vollständig, nichts bricht mehr senkrecht um.</p><p>• <b>Pfadleiste</b> zeigt im schmalen Fenster die letzten Ordner mit Namen statt nur Symbole.</p><p>• <b>Größe und Datum</b> bleiben im schmalen Fenster sichtbar, die Namensspalte nutzt den restlichen Platz.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.1.1/Porter-v0.1.1-macOS.zip" length="3596567" type="application/octet-stream" sparkle:edSignature="WiPGkjYOYC1+jyFUq9TmOHQNOcdeSbSMYrJ4jV/0fZsMC0+3sumcI49fshFvZsaBzON0jqW/p22Q/EdRx0orDw=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Verbessert</h3><p>• <b>Beide Spaltenköpfe sehen immer gleich aus.</b> Wird das Fenster schmaler, verkleinern sich beide gemeinsam: erst „Aufräumen“ mit Text, dann nur Symbole, dann ein „…“-Menü mit Neuer Tab, Orte und Aufräumen. Erst ganz zuletzt kürzt sich der Ordnername in der Mitte (voller Name im Tooltip). Vorher fehlte links bei 1080 Punkten Breite der „+“-Knopf.</p><h3>Behoben</h3><p>• <b>Kleine Bildschirme:</b> Das Fenster lässt sich jetzt bis auf 412 Punkte Höhe verkleinern (vorher mindestens 480). Auf einem Monitor mit 504 Punkten Höhe ragte es unten über den Rand, die F-Tasten-Leiste war abgeschnitten.</p><p>• <b>Vollbild:</b> Fährt die Maus an den oberen Rand, klappt macOS Menüleiste und Titelstreifen herein. Die verdeckten bisher den Spaltenkopf, dessen Knöpfe waren von oben nicht erreichbar. Im Vollbild beginnt der Inhalt jetzt unterhalb dieses Streifens.</p><p>• <b>Seitenleiste:</b> Kein breiter dunkler Rollbalken mehr, wenn in den Systemeinstellungen „Rollbalken immer einblenden“ gilt (etwa mit angeschlossener Maus). Rollen geht weiter.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.1.2/Porter-v0.1.2-macOS.zip" length="3610655" type="application/octet-stream" sparkle:edSignature="Yx8ihEc017/sDa4ibDqF/UoW6YlRvS63vRElcFfgqTVxboT379mvrCDlVImAGfeVM0mZr4wIhyVOD3MAy3DkCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: aA3kw1yaDKb9omHRu5RZb+wW4TuR8RWm4qwA8IohydTvYAliv/H6sBoMDuO7mXGBCjhO5vlzZ8xo8yluxpVOAg==
-length: 1608
+edSignature: y2z4+4+eNsJgIfSZL1pELEPSfFA8Jhj3YBbv7dxJDpNznzPjXKSNtoUeVRHmls4b6hbxsgURfB4SWmft6GoRCQ==
+length: 2304
 -->
