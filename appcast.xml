@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.2.2</title>
-            <pubDate>Thu, 12 Nov 2026 18:30:24 +0100</pubDate>
+            <title>0.3.0</title>
+            <pubDate>Thu, 12 Nov 2026 19:53:21 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Behoben</h3><p>• <b>Spalten lassen sich breiter ziehen, und die Liste rollt dann seitlich.</b> In 0.2.1 sprang eine von Hand gezogene Breite beim nächsten Neuladen zurück, die Namensspalte ließ sich gar nicht verbreitern, und seitlich gerollt wurde nur in sehr engen Fenstern. Jetzt bleiben gezogene Breiten je Spalte gespeichert. Ist die Summe breiter als die Spalte, rollt sie seitlich. Rechtsklick auf die Spaltenköpfe → „Spaltenbreiten zurücksetzen“ stellt den Ausgangszustand wieder her.</p><h3>Verbessert</h3><p>• <b>Befehlsleiste unten ausblendbar, für mehr Platz in den Listen:</b> Menü Darstellung → „Befehlsleiste ein/aus“ oder command-control-B, auch per Rechtsklick auf die Leiste oder in einen leeren Bereich einer Spalte. Porter merkt sich die Einstellung. F2, F5, F6, F7 und F8 wirken weiter, Fortschritt und Hinweise erscheinen auch ohne Leiste.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.2.2/Porter-v0.2.2-macOS.zip" length="3666947" type="application/octet-stream" sparkle:edSignature="ZbiJoRI6pPWvBFTlOdnn0DnG6J2wOk6AGx2KQJ9k/2XcutYes5lufiMQoyMNkMi+Bt2S3K7aE2vYXRx3MRhxAw=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Suche auf allen Laufwerken.</b> Neben dem Suchfeld wählst du jetzt, wo Porter sucht: „Ordner“ (nur hier), „Unterordner“ (ganzer Ordnerbaum) oder „Alle Laufwerke“. Bei „Alle Laufwerke“ sucht Porter per Spotlight auf dem ganzen Mac samt eingebundener Laufwerke und zeigt die Treffer nach Ordner gruppiert, dein Benutzerordner als „~“. Laufwerke, die Spotlight nicht indiziert, fehlen dabei. Findet Spotlight mehr als 2.000 Treffer, zeigt Porter die ersten 2.000 und unten die Gesamtzahl („2.000 von 57.526 Treffern“). Spotlight zeigt Porter nur, was Porter lesen darf: Für Treffer in Cloud-Ordnern wie Google Drive braucht Porter den vollen Festplattenzugriff.</p><h3>Verbessert</h3><p>• <b>Ruhigere Spaltenköpfe:</b> Über der Rollleiste sitzt kein dunkler Kasten mehr, und der Ordnername oben in jeder Spalte ist etwas kleiner (14 statt 16 Punkte). Das spart Platz in schmalen Fenstern.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.3.0/Porter-v0.3.0-macOS.zip" length="3670397" type="application/octet-stream" sparkle:edSignature="49CTFgfrwl4PIN4UUQGfEw8NkGCkKSwkMtGRF0mmp+Kr8t0zDRJ+p0XCaPAKlXcEV68eR0yZlxyerSNu0tp8Bw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zlf8uMB8w4ji3I9K/iurbG6oX46PpJSIQ5Pgwtfu1cUAP02dnRME8/QA8ULm2iA39um1Gx+/vWXrO6AR2pzuCA==
-length: 2083
+edSignature: ohzTtJafcMmPvs3MrDV+w/w82w3hKtHw6KYxQJvzkur/U0eLvIwQbEJY/l0eUzHtnUjuSvgtNxMTIippejUaCw==
+length: 2132
 -->
