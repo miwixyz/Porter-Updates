@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.4.0</title>
-            <pubDate>Thu, 12 Nov 2026 21:09:02 +0100</pubDate>
+            <title>0.5.0</title>
+            <pubDate>Fri, 13 Nov 2026 08:57:17 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Notizen und Aufgaben an Dateien und Ordnern.</b> F4, Rechtsklick → „Notiz …“ oder „Notiz“ in der Befehlsleiste öffnet ein kleines Feld an der Zeile: Text, Häkchen „Aufgabe“ und „erledigt“. Porter speichert beim Schließen (Esc oder Klick daneben). Hinter dem Namen zeigt ein Symbol, dass es eine Notiz gibt: Notizzettel für eine Beschreibung, Kreis für eine offene Aufgabe, Kreis mit Haken für eine erledigte. Beim Darüberfahren erscheint die erste Zeile.</p><p>• <b>Alle Notizen</b> (command-control-N): offene Aufgaben, alle Notizen oder solche, deren Datei fehlt. Doppelklick springt hin, ein Klick auf den Kreis hakt ab. Wurde eine Datei außerhalb von Porter umbenannt, ordnest du die Notiz mit „Neu zuordnen …“ wieder zu.</p><p>• Die Notizen liegen in einer Liste in iCloud Drive (`Porter/Notizen.json`) und sind damit auf allen deinen Macs gleich. Benennst du in Porter um oder verschiebst mit F6, wandert die Notiz mit, auch für alles in einem Ordner. Landet eine Datei im Papierkorb, bleibt die Notiz erhalten.</p><p>• <b>Trenner zwischen den Spalten:</b> In der Lücke ziehen macht eine Spalte breiter und die andere schmaler (jede bleibt mindestens 360 Punkte breit). Porter merkt sich die Aufteilung, Doppelklick stellt halb und halb her.</p><p>• <b>„Öffnen mit Porter“:</b> Bekommt Porter eine Datei übergeben, zeigt es ihren Ordner und markiert sie. Porter öffnet oder ändert dabei nichts.</p><h3>Verbessert</h3><p>• „Nach Updates suchen …“ auch im Menü des Menüleisten-Symbols.</p><p>• Die Befehlsleiste bleibt auch im kleinsten Fenster einzeilig.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.4.0/Porter-v0.4.0-macOS.zip" length="3736473" type="application/octet-stream" sparkle:edSignature="TWcwtEO5TXfYXg02xDWehlQp8R5PytnM+ezmE1jdaXr9yO9RSH7NGKcekdtE66fP/qx4dEMDhHwKybht/qsSBg=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Datei-Favoriten:</b> Rechtsklick auf eine Datei → „Zu Favoriten hinzufügen“, oder eine Datei in die Seitenleiste ziehen. Sie erscheint im eigenen Block „Dateien“ unter den Favoriten; ein Klick öffnet sie mit ihrer Standard-App. Rechtsklick dort: „Öffnen“, „Im Ordner zeigen“, „Aus Favoriten entfernen“.</p><h3>Verbessert</h3><p>• Eine Spalte wird jetzt auch ausgewählt, wenn du irgendwo in sie klickst: in den Kopf mit dem Ordnernamen, in die Spaltenköpfe, ins Leere unter den Zeilen oder in die Fußzeile. Bisher ging das nur über eine Datei oder einen Ordner.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.5.0/Porter-v0.5.0-macOS.zip" length="3743962" type="application/octet-stream" sparkle:edSignature="6JU4fCuFqutPY5Viyc5HLqyYJ1M8usEZQci22g+UGEOBULkQ3MmGyyQbCfQBg3NGSctB0hTFWd8wM2Nk+EHtBA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: P5ihGqYiFn2ZHS/6FDE1zoQgxAVEAd7iewgXMk5cbrkaejgEKjRoLlGhTeH3Kmz2TMXEqClj6GKjupzVqDYXBw==
-length: 2840
+edSignature: dfN34atUb+ZgCcEHdGCnAZ+NC5FztUSqVI1zUGUnu6ITYl8dByaOpKoK3H9KlmPo+CyzAK86DzLTD5aqJ5R4BQ==
+length: 1808
 -->
