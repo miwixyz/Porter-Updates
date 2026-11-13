@@ -10,7 +10,7 @@ Porter ist ein Dateimanager mit zwei Spalten für macOS 27. Links ein Ordner, re
 
 ### Zwei Spalten
 - Tab wechselt die Spalte, ein Klick irgendwo hinein auch. F5 kopiert, F6 verschiebt, F2 benennt um, F7 legt einen Ordner an, F8 wirft in den Papierkorb. Liegt am Ziel schon eine Datei mit dem Namen, fragt Porter vorher.
-- Jede Spalte hat Tabs, Zurück und Vor und eine Pfadleiste, deren Glieder man anklicken kann. Die Leertaste öffnet Quick Look.
+- Jede Spalte hat Tabs. Die ziehst du mit der Maus in die Reihenfolge, die du willst, und Porter merkt sie sich. Dazu Zurück und Vor und eine Pfadleiste, deren Glieder du anklicken kannst. Die Leertaste öffnet Quick Look.
 - In der Seitenleiste stehen deine Favoriten (hineinziehen, umsortieren), die Laufwerke mit Auswerfen-Knopf und iCloud sowie andere Cloud-Ordner. Auch einzelne Dateien kannst du dort ablegen oder per Rechtsklick hinzufügen. Sie stehen dann im Block „Dateien“ und gehen mit einem Klick auf. Wie breit die Leiste ist, stellst du am rechten Rand ein.
 - Sortieren per Klick auf den Spaltenkopf, gruppieren nach Art, Datum oder Größe. Jede Spalte merkt sich ihre eigene Ansicht.
 
