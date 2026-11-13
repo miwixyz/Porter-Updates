@@ -34,6 +34,7 @@ Porter ist ein Dateimanager mit zwei Spalten für macOS 27. Links ein Ordner, re
 
 ### Notizen und Aufgaben
 - F4 hängt eine Notiz an die markierte Datei oder den Ordner. Das kann eine Beschreibung sein („Endfassung vom Verleih“) oder eine Aufgabe („Plakat fehlt, Verleih fragen“), die du später abhakst. Ein kleines Symbol hinter dem Namen zeigt, dass es eine Notiz gibt.
+- Aus dem Notizfeld heraus legst du auf Wunsch eine Erinnerung in Apples Erinnerungen an: mit Termin, dem Notiztext und einem Link, der die Datei öffnet.
 - command-control-N listet alle offenen Aufgaben. Ein Doppelklick bringt dich zur Datei.
 - Die Notizen liegen in einer Datei in deinem iCloud Drive, deshalb siehst du sie auf jedem deiner Macs. Benennst du eine Datei in Porter um oder verschiebst sie, kommt die Notiz mit.
 
@@ -41,6 +42,7 @@ Porter ist ein Dateimanager mit zwei Spalten für macOS 27. Links ein Ordner, re
 - Der Rechtsklick kann, was man vom Finder kennt: Öffnen mit, Teilen, Dienste, Pfad kopieren, Terminal hier öffnen, Informationen.
 - Ein Symbol in der Menüleiste führt zu Favoriten und Laufwerken. Wer es nicht mag, schaltet es ab.
 - command-Plus und command-Minus machen die Schrift größer oder kleiner. Porter merkt sich die Größe.
+- Ist ein Dateiname zu lang für die Spalte, zeigt Porter ihn beim Darüberfahren ganz.
 - Läuft auch auf kleinen Bildschirmen. Getestet an einem Monitor mit 1344 × 504 Punkten: Das Fenster passt drauf, und im Vollbild bleiben die Knöpfe oben erreichbar. Wird das Fenster schmal, wandern Neuer Tab, Orte und Aufräumen in ein „…“-Menü, und wird eine Spalte zu eng für die Namen, rollt sie seitlich. Spalten ziehst du im Spaltenkopf breiter, Porter merkt sich die Breite. Auch die Aufteilung zwischen linker und rechter Spalte lässt sich in der Lücke dazwischen verschieben. Die Leiste mit den F-Tasten unten lässt sich ausblenden (command-control-B), die Tasten wirken dann trotzdem.
 - Hell und dunkel, passend zum System.
 
@@ -60,7 +62,7 @@ In der App unter **Porter → Nach Updates suchen …**. Beim zweiten Start frag
 
 ## Datenschutz
 
-Porter schickt nichts über dich oder deine Dateien irgendwohin. Es gibt kein Konto und keine Nutzungsstatistik. Die einzige Verbindung ins Netz ist die Update-Suche hier bei GitHub. Notizen schreibt Porter in eine Datei in deinem iCloud Drive, die iCloud wie jede andere Datei dort zwischen deinen Macs abgleicht. Passwörter und Kontodaten gehören deshalb nicht in eine Notiz.
+Porter schickt nichts über dich oder deine Dateien irgendwohin. Es gibt kein Konto und keine Nutzungsstatistik. Die einzige Verbindung ins Netz ist die Update-Suche hier bei GitHub. Notizen schreibt Porter in eine Datei in deinem iCloud Drive, die iCloud wie jede andere Datei dort zwischen deinen Macs abgleicht. Passwörter und Kontodaten gehören deshalb nicht in eine Notiz. Für Erinnerungen fragt macOS beim ersten Mal nach dem Zugriff. Apple vergibt dafür nur Lese- und Schreibrecht zusammen, Porter legt aber nur an und liest deine Erinnerungen nicht.
 
 ## Was in diesem Repo liegt
 
