@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.5.0</title>
-            <pubDate>Fri, 13 Nov 2026 08:57:17 +0100</pubDate>
+            <title>0.5.1</title>
+            <pubDate>Fri, 13 Nov 2026 09:45:59 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Datei-Favoriten:</b> Rechtsklick auf eine Datei → „Zu Favoriten hinzufügen“, oder eine Datei in die Seitenleiste ziehen. Sie erscheint im eigenen Block „Dateien“ unter den Favoriten; ein Klick öffnet sie mit ihrer Standard-App. Rechtsklick dort: „Öffnen“, „Im Ordner zeigen“, „Aus Favoriten entfernen“.</p><h3>Verbessert</h3><p>• Eine Spalte wird jetzt auch ausgewählt, wenn du irgendwo in sie klickst: in den Kopf mit dem Ordnernamen, in die Spaltenköpfe, ins Leere unter den Zeilen oder in die Fußzeile. Bisher ging das nur über eine Datei oder einen Ordner.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.5.0/Porter-v0.5.0-macOS.zip" length="3743962" type="application/octet-stream" sparkle:edSignature="6JU4fCuFqutPY5Viyc5HLqyYJ1M8usEZQci22g+UGEOBULkQ3MmGyyQbCfQBg3NGSctB0hTFWd8wM2Nk+EHtBA=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Erinnerung erstellen:</b> Im Notizfeld (F4) legt „Erinnerung erstellen …“ einen Eintrag in Apples Erinnerungen an, mit Termin (Vorschlag: morgen 9 Uhr), dem Notiztext und einem Link zur Datei. macOS fragt beim ersten Mal nach dem Zugriff. Porter legt nur an und liest deine Erinnerungen nicht.</p><h3>Verbessert</h3><p>• Ist ein Dateiname zu lang für die Spalte, zeigt Porter beim Darüberfahren den vollen Namen.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.5.1/Porter-v0.5.1-macOS.zip" length="3759896" type="application/octet-stream" sparkle:edSignature="yOnipruozYZ/cl/fS+xNp7fLLHdh1moi7r+/sjHt7pvjfQA+dUxlr4i3s+sIG4Fzr9o3cCgSkLnCpOX8MSnECw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: dfN34atUb+ZgCcEHdGCnAZ+NC5FztUSqVI1zUGUnu6ITYl8dByaOpKoK3H9KlmPo+CyzAK86DzLTD5aqJ5R4BQ==
-length: 1808
+edSignature: yraY3Hg3q+BBK1uaoqKfZLJ+LpDI5KQPp4Xv2/N5j9eVxW19n6weGttVepBNAZkHV54L6KkW+Vydq2+REEgCCg==
+length: 1639
 -->
