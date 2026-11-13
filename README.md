@@ -41,6 +41,7 @@ Porter ist ein Dateimanager mit zwei Spalten für macOS 27. Links ein Ordner, re
 ### Kleinkram, der im Alltag zählt
 - Der Rechtsklick kann, was man vom Finder kennt: Öffnen mit, Teilen, Dienste, Pfad kopieren, Terminal hier öffnen, Informationen.
 - Ein Symbol in der Menüleiste führt zu Favoriten und Laufwerken. Wer es nicht mag, schaltet es ab.
+- Auf Wunsch übernimmt Porter „Im Finder zeigen“: Klickst du in Safari, Mail oder einer anderen App darauf, öffnet sich Porter mit der markierten Datei. Ganz ersetzen lässt sich der Finder nicht. Schreibtisch, Dock und Ordner, die andere Apps öffnen, bleiben bei ihm, das gibt macOS so vor. Ausschalten im Porter-Menü holt den Finder zurück.
 - command-Plus und command-Minus machen die Schrift größer oder kleiner. Porter merkt sich die Größe.
 - Ist ein Dateiname zu lang für die Spalte, zeigt Porter ihn beim Darüberfahren ganz.
 - Läuft auch auf kleinen Bildschirmen. Getestet an einem Monitor mit 1344 × 504 Punkten: Das Fenster passt drauf, und im Vollbild bleiben die Knöpfe oben erreichbar. Wird das Fenster schmal, wandern Neuer Tab, Orte und Aufräumen in ein „…“-Menü, und wird eine Spalte zu eng für die Namen, rollt sie seitlich. Spalten ziehst du im Spaltenkopf breiter, Porter merkt sich die Breite. Auch die Aufteilung zwischen linker und rechter Spalte lässt sich in der Lücke dazwischen verschieben. Die Leiste mit den F-Tasten unten lässt sich ausblenden (command-control-B), die Tasten wirken dann trotzdem.
