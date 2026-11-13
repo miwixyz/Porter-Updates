@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.7.0</title>
-            <pubDate>Fri, 13 Nov 2026 13:43:26 +0100</pubDate>
+            <title>0.8.0</title>
+            <pubDate>Fri, 13 Nov 2026 16:54:54 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Tabs verschieben:</b> Einen Tab mit der Maus nach links oder rechts ziehen, die anderen rücken zur Seite. Porter merkt sich die Reihenfolge.</p><h3>Verbessert</h3><p>• <b>Aufgeräumter Spaltenkopf:</b> Statt sieben einzelner Knöpfe zwei ruhige Gruppen: links Zurück, Vor und Hoch, rechts Suchen, Neuer Tab, Orte und Aufräumen. Die offene Suche leuchtet im Akzent. Den Knopf „In den Ordner“ gibt es nicht mehr; Return, command-↓ und Doppelklick öffnen wie bisher.</p><p>• <b>Neue Tab-Leiste:</b> Der aktive Tab sitzt als Pille in einer Leiste und gleitet beim Wechsel hinüber. Beim Darüberfahren zeigt ein leiser Hintergrund, welchen Tab du triffst.</p><p>• <b>Lebendigere Knöpfe:</b> Am Rand der Knopfgruppen läuft ein Glanz mit dem Mauszeiger mit, Knöpfe geben beim Klick kurz nach. In der Leiste unten wachsen die Symbole unter der Maus.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.7.0/Porter-v0.7.0-macOS.zip" length="3807417" type="application/octet-stream" sparkle:edSignature="HsqE9+9v6c7aouosG0/8GYqNR78gcbBniUpOLCDvMpf+qN2PHOfdCLl/CsHrSwSxOYv1aFOmDCagMcUkw8X+AQ=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Dateien hineinziehen:</b> Dateien aus der anderen Spalte oder aus einer anderen App (getestet mit Gnotchi) in die Liste ziehen, und Porter kopiert sie in den Ordner der Spalte. Lässt du über einem Ordner los, landen sie darin. Auf einen Tab gezogen, kommen sie in dessen Ordner. Hineinziehen kopiert immer, verschieben geht weiter mit F6.</p><p>• <b>Ausschneiden, Kopieren, Einfügen:</b> command-C und command-X legen die markierten Dateien in die Zwischenablage, command-V fügt sie im Ordner der aktiven Spalte ein. Nach command-X werden sie verschoben, nach command-C kopiert. Programme wie Clop, die kopierte Bilder in der Zwischenablage verkleinern, stören dabei nicht: Porter nimmt dein Original.</p><h3>Verbessert</h3><p>• Umbenennen per Klick startet nur noch, wenn du auf den Namen selbst klickst, und erst nach gut einer Sekunde. Rollen oder ein Fensterwechsel bricht es ab. F2 benennt sofort um.</p><p>• Läuft gerade ein Kopiervorgang, sagt Porter das, statt einen neuen Auftrag still zu übergehen.</p><h3>Intern</h3><p>• `make dev` startet die Testkopie mit eigener Kennung (`scripts/sichttest.sh`), Ordner über `LEFT=` und `RIGHT=`.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.8.0/Porter-v0.8.0-macOS.zip" length="3825190" type="application/octet-stream" sparkle:edSignature="UZzuCgP48LZI5g0GW4JH+scmh8pzxd9eVigYZoZCkaBsMfiJS3I0YKm3wVmR74s3LOhVwacBMhu360Hrv+SOBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: uEFQRNOLOsl5HPdMrD9ZqXwmph7DxcUdNAdHYx903DfuXLtIdozJ3enQKdJCPz1p/gsmMQ4V2fAz4cYInuhiAg==
-length: 2078
+edSignature: /k1+VUIpAD+m6Z1n/Or8DdFdmjg0thwMgjaLCPyXcVgW8xlKnJtxynzvM60LL1AQpy1XdMacJkaBvD/1ZKvtCw==
+length: 2377
 -->
