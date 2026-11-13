@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.8.1</title>
-            <pubDate>Fri, 13 Nov 2026 17:20:31 +0100</pubDate>
+            <title>0.8.2</title>
+            <pubDate>Fri, 13 Nov 2026 17:32:31 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Behoben</h3><p>• <b>Fenster per Doppelklick vergrößern:</b> Ein Doppelklick oben ins Fenster, neben den Ampelknöpfen oder über den beiden Spalten, vergrößert Porter auf den ganzen Bildschirm, ein zweiter stellt die alte Größe her. Porter folgt dabei deiner Einstellung in den Systemeinstellungen unter „Schreibtisch &amp; Dock“ (Doppelklick auf die Titelleiste). Bisher ließ sich das Fenster dort nur ziehen.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.8.1/Porter-v0.8.1-macOS.zip" length="3827217" type="application/octet-stream" sparkle:edSignature="Z3yUniR3AumudMg4fztcjapCHO+25wf0RupU4pXUQds+Da9BH6xkBYrbvwWdFxl0BunQnhFyyvSwUXNXNI2CCQ=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Geändert</h3><p>• <b>„Ordner zuerst“ ist jetzt standardmäßig aus:</b> Ordner und Dateien stehen gemischt in einer Reihenfolge, so wie du sortierst. Wer die Ordner oben haben will, schaltet es je Spalte wieder ein: Rechtsklick auf die Spaltenköpfe oder im Kontextmenü unter „Ansicht“. Spalten, deren Ansicht Porter schon gespeichert hat, behalten ihre Einstellung.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.8.2/Porter-v0.8.2-macOS.zip" length="3827233" type="application/octet-stream" sparkle:edSignature="ilK+3Z0HoNLx/sP7jthggZHYKddF+8m0DNp4Vl0tMQoclj6lb4mCblE/PtYN1ympGksE3K1bYApRlYnzJIvBDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: BZhRYtoCcGNA4wYzYNonr4/UUuSgbsqdWUwYBqXbQAnKpuE3/8zMxpt8jIPD0eY7/Tsbr74jVuiHJepqDm+kDw==
-length: 1622
+edSignature: 6B0lkh/jMxuN2L+7uajpxdQMtgljcsf3bXD8gUzGG2lcA0DAdA8mfxQXqPODLEZfepufEZaM26eNg/Q9bLDKDw==
+length: 1577
 -->
