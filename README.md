@@ -28,8 +28,11 @@ Porter ist ein Dateimanager mit zwei Spalten für macOS 27. Links ein Ordner, re
 - Der KI-Vorschlag nutzt Apples Sprachmodell auf deinem Mac. Es sieht nur die Dateinamen, und nichts verlässt den Rechner. Perfekt ist es nicht (im Test landete ein Passwort-Notfallblatt bei den Rechnungen), deshalb siehst du jede Zuordnung vorher und kannst sie ändern.
 - Vor jedem Schritt zeigt Porter, was passieren wird. Verschieben lässt sich rückgängig machen, und Gelöschtes holst du aus dem Papierkorb zurück.
 
-### Umwandeln, packen, umbenennen
+### Umwandeln, komprimieren, packen, umbenennen
 - Bilder werden zu JPG, PNG, WebP, HEIC oder AVIF, auf Wunsch kleiner gerechnet. Aus Bildern wird SVG oder ein PDF, aus PDF-Seiten werden Bilder.
+- Bilder und Videos bringst du auf eine Größe, die in Discord (unter 10 MB) oder in eine E-Mail (unter 18 MB) passt, oder auf die halbe Größe. Das Ergebnis liegt neben dem Original. Bei Videos probiert Porter bis zu vier Auflösungen durch. MKV und WebM kann macOS nicht öffnen, die bietet Porter deshalb gar nicht erst an.
+- Videos werden zu MP4, Ton wird zu M4A, auch aus einem Video herausgezogen. MP3 kann macOS nicht schreiben, darum fehlt es.
+- Ein Rechtsklick auf ein Bild liest QR- und Strichcodes. Porter zeigt den Inhalt und kopiert ihn auf Wunsch. Einen Link öffnet es nie von selbst.
 - Packen geht als ZIP, als ZIP mit Passwort (AES-256) oder als verschlüsseltes DMG. Das Passwort speichert Porter nirgends.
 - Viele Dateien auf einmal umbenennen: neuer Name, Suchen und Ersetzen, laufende Nummern, Datum, Kleinschreibung, Unterstriche statt Leerzeichen. Mit Vorschau, und der letzte Durchgang lässt sich zurücknehmen.
 
@@ -41,6 +44,7 @@ Porter ist ein Dateimanager mit zwei Spalten für macOS 27. Links ein Ordner, re
 
 ### Kleinkram, der im Alltag zählt
 - Der Rechtsklick kann, was man vom Finder kennt: Öffnen mit, Teilen, Dienste, Pfad kopieren, Terminal hier öffnen, Informationen.
+- „Neue Datei“ (option-command-N) legt eine leere Datei im Ordner an und überschreibt nie eine vorhandene. „Zwischenablage als Datei sichern“ macht aus kopiertem Text eine .txt und aus einem kopierten Bild ein PNG.
 - Ein Symbol in der Menüleiste führt zu Favoriten und Laufwerken. Wer es nicht mag, schaltet es ab.
 - Auf Wunsch übernimmt Porter „Im Finder zeigen“: Klickst du in Safari, Mail oder einer anderen App darauf, öffnet sich Porter mit der markierten Datei. Ganz ersetzen lässt sich der Finder nicht. Schreibtisch, Dock und Ordner, die andere Apps öffnen, bleiben bei ihm, das gibt macOS so vor. Ausschalten im Porter-Menü holt den Finder zurück.
 - command-Plus und command-Minus machen die Schrift größer oder kleiner. Porter merkt sich die Größe.
