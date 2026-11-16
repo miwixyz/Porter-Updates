@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.9.2</title>
-            <pubDate>Mon, 16 Nov 2026 11:28:08 +0100</pubDate>
+            <title>0.9.3</title>
+            <pubDate>Mon, 16 Nov 2026 14:54:17 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>40</sparkle:version>
-            <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Behoben</h3><p>• <b>Umbenennen lesbar:</b> Beim Umbenennen einer markierten Zeile stand die Schrift weiß auf weißem Eingabefeld. Das Feld nutzt jetzt Systemfarben (dunkle Schrift auf hellem Grund, im dunklen Modus umgekehrt).</p><p>• <b>Pfadleiste ganz erreichbar:</b> Ist die Spalte zu schmal für den ganzen Pfad, öffnet das „…“ vor den sichtbaren Gliedern ein Menü mit den ausgeblendeten Ordnern. Ein Klick springt dorthin.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.9.2/Porter-v0.9.2-macOS.zip" length="3864210" type="application/octet-stream" sparkle:edSignature="VCVbuwJ/jAgS9l+Fvo0CX9a0L6CX4dNcBxs8uflz+t1yTq5ph/WjFz4f4uoJpq4Urt4emP6MSUh9bfohypOaBQ=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Archiv nach dem Entpacken in den Papierkorb:</b> Menü „Datei-Befehle“ → „Archiv nach dem Entpacken in den Papierkorb“ (Standard: aus). Nur nach erfolgreichem Entpacken; bei Abbruch oder Fehler bleibt das Archiv liegen.</p><p>• <b>Mehrere Archive per Doppelklick:</b> Sind mehrere Archive markiert, entpackt ein Doppelklick auf eines alle.</p><p>• <b>Dateien in den übergeordneten Ordner:</b> Ziehen auf ein Glied der Pfadleiste oder auf den „Hoch“-Pfeil verschiebt (mit option-Taste: kopiert). Dazu der Befehl „In den übergeordneten Ordner verschieben“ (command-option-↑, auch im Kontextmenü). In schmalen Spalten bleibt der Elternordner als kurzes Glied sichtbar.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.9.3/Porter-v0.9.3-macOS.zip" length="3872558" type="application/octet-stream" sparkle:edSignature="NzbLx8rLfWrTAb3tVjAgU8fG8IYsNKfxk2xQq/WG34dj4BD+iJDmFGCPjQGIdpPV/BT23HlGwHXikodVs/TLCQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: bR26v5L0A6HOLY3rwGMJnr8LPRms1sP50Y4ariWgWGYpctPrey6wK/CeV/Juw+2Is50N2yHbmrS8wU/KB7gaAQ==
-length: 1639
+edSignature: Tm1nRcUO8bdYxYM1Z6jLZF5qTrOBGUy4ALVuNKrWhmuTzTaMP++VB8dPkwMAIDH6ohke9mIVt5meAReJ2OJFBw==
+length: 1909
 -->
