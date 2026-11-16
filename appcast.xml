@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.9.0</title>
-            <pubDate>Sun, 15 Nov 2026 13:21:30 +0100</pubDate>
+            <title>0.9.1</title>
+            <pubDate>Mon, 16 Nov 2026 09:24:10 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Komprimieren:</b> Rechtsklick auf Bilder oder Videos → „Komprimieren“ → für Discord (unter 10 MB), für E-Mail (unter 18 MB, passt in 25-MB-Postfächer) oder auf die halbe Größe. Bilder werden zu JPG (erst sinkt die Qualität, dann die Größe), Videos zu MP4 in bis zu vier Stufen. Das Ergebnis heißt „… -komprimiert“ und liegt neben dem Original. Was schon klein genug ist, bleibt unberührt.</p><p>• <b>Video als MP4, Ton als M4A:</b> Rechtsklick → „Umwandeln“. M4A zieht auch den Ton aus einem Video. MP3 schreibt macOS nicht selbst, das gibt es nicht.</p><p>• <b>QR- oder Strichcode lesen:</b> Rechtsklick auf ein Bild → „Umwandeln“ → „QR- oder Strichcode lesen“. Porter zeigt den Inhalt und kopiert ihn auf Wunsch. Links öffnet Porter nie von selbst.</p><p>• <b>Neue Datei …</b> (Rechtsklick ins Leere, Datei-Menü oder option-command-N): legt eine leere Datei im Ordner der aktiven Spalte an, Vorschlag „Neue Datei.md“. Eine vorhandene Datei wird nie überschrieben.</p><p>• <b>Zwischenablage als Datei sichern</b> (Rechtsklick ins Leere oder Datei-Menü): Text als .txt, ein kopiertes Bild als PNG, benannt nach Datum und Uhrzeit.</p><h3>Verbessert</h3><p>• Meldungen und der Fortschrittsbalken stehen in einer eigenen Kapsel über der Befehlsleiste und überdecken sie nicht mehr; lange Meldungen dürfen drei Zeilen lang sein.</p><p>• Komprimieren und „Video als MP4“ erscheinen nur bei Formaten, die macOS selbst öffnet. MKV, WebM, FLV und WMV bekommen kein Angebot, weil macOS sie nicht lesen kann.</p><h3>Intern</h3><p>• Sicherheitsentwurf S33–S35, 19 neue Tests (u. a. mit echtem Testvideo).</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.9.0/Porter-v0.9.0-macOS.zip" length="3860361" type="application/octet-stream" sparkle:edSignature="ffYwzQtLpH6rUfZeUv03oL/kQIXDpngKxGVHdxo9X8iXFncZ7Wv8ax27s0EdYeTyMSPTeNsWtBP0uMTmKJvaDA=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Behoben</h3><p>• <b>Laufende Downloads erscheinen sofort:</b> Lädt der Browser eine Datei in den angezeigten Ordner, wächst sie in der Spalte mit und steht am Ende mit richtiger Größe und endgültigem Namen da. Bisher zeigte Porter nur den Anfang, den fertigen Download erst nach einem Neuladen.</p><h3>Intern</h3><p>• Ordnerüberwachung nutzt FSEvents mit Datei-Ereignissen statt eines Verzeichnis-Watchers und bleibt beim Neuladen bestehen.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.9.1/Porter-v0.9.1-macOS.zip" length="3861113" type="application/octet-stream" sparkle:edSignature="1R2vPbEiMTK0AeaqFgCfIHrF8Kv31fzfDW1teT/oXqibKujeZLSPKnj7ijcHUyZ5pdcB8+Yg/xpYih1bo8/uBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: fTDB1MCWCzozQYPQ8dH5OeyuXffKHK0OlPUPm3IGSXbam3eNTKChR1HiniftAx9G/ghr10t1JREuYiX3KJAsDw==
-length: 2886
+edSignature: 3/RlwhKs3mZcZdJlkAG3Y/UgntGOMmlA95aQ87ueziPRJrdlUt7mfVb1ek9UrOMv31YbZ4BPdH3PhUFiOd4WBA==
+length: 1649
 -->
