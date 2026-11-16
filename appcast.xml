@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.9.1</title>
-            <pubDate>Mon, 16 Nov 2026 09:24:10 +0100</pubDate>
+            <title>0.9.2</title>
+            <pubDate>Mon, 16 Nov 2026 11:28:08 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Behoben</h3><p>• <b>Laufende Downloads erscheinen sofort:</b> Lädt der Browser eine Datei in den angezeigten Ordner, wächst sie in der Spalte mit und steht am Ende mit richtiger Größe und endgültigem Namen da. Bisher zeigte Porter nur den Anfang, den fertigen Download erst nach einem Neuladen.</p><h3>Intern</h3><p>• Ordnerüberwachung nutzt FSEvents mit Datei-Ereignissen statt eines Verzeichnis-Watchers und bleibt beim Neuladen bestehen.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.9.1/Porter-v0.9.1-macOS.zip" length="3861113" type="application/octet-stream" sparkle:edSignature="1R2vPbEiMTK0AeaqFgCfIHrF8Kv31fzfDW1teT/oXqibKujeZLSPKnj7ijcHUyZ5pdcB8+Yg/xpYih1bo8/uBg=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Behoben</h3><p>• <b>Umbenennen lesbar:</b> Beim Umbenennen einer markierten Zeile stand die Schrift weiß auf weißem Eingabefeld. Das Feld nutzt jetzt Systemfarben (dunkle Schrift auf hellem Grund, im dunklen Modus umgekehrt).</p><p>• <b>Pfadleiste ganz erreichbar:</b> Ist die Spalte zu schmal für den ganzen Pfad, öffnet das „…“ vor den sichtbaren Gliedern ein Menü mit den ausgeblendeten Ordnern. Ein Klick springt dorthin.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.9.2/Porter-v0.9.2-macOS.zip" length="3864210" type="application/octet-stream" sparkle:edSignature="VCVbuwJ/jAgS9l+Fvo0CX9a0L6CX4dNcBxs8uflz+t1yTq5ph/WjFz4f4uoJpq4Urt4emP6MSUh9bfohypOaBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 3/RlwhKs3mZcZdJlkAG3Y/UgntGOMmlA95aQ87ueziPRJrdlUt7mfVb1ek9UrOMv31YbZ4BPdH3PhUFiOd4WBA==
-length: 1649
+edSignature: bR26v5L0A6HOLY3rwGMJnr8LPRms1sP50Y4ariWgWGYpctPrey6wK/CeV/Juw+2Is50N2yHbmrS8wU/KB7gaAQ==
+length: 1639
 -->
