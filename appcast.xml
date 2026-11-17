@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.9.4</title>
-            <pubDate>Mon, 16 Nov 2026 15:04:02 +0100</pubDate>
+            <title>0.9.5</title>
+            <pubDate>Tue, 17 Nov 2026 11:55:54 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>43</sparkle:version>
-            <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Behoben</h3><p>• <b>Pfadleiste bei langem Ordnernamen:</b> Ist der aktuelle Ordnername sehr lang, bleibt der Elternordner als Symbol in der Leiste (Klick und Ablegen gehen), der aktuelle Name wird gekürzt. Vorher verschwand der Elternordner im „…“-Menü.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.9.4/Porter-v0.9.4-macOS.zip" length="3873344" type="application/octet-stream" sparkle:edSignature="0jV9kbiYdQgzUDyxncjhmT+uBf/HInpcgpa4YAWERGOms6whOQ9tZl8K5j2B+GtRv5rqgwFI5fX0uOjEmpMGAA=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Pfad eingeben per Klick:</b> Ein Klick auf den Ordnernamen im Spaltenkopf öffnet „Gehe zu Ordner“ (wie command-shift-G). Dort geht `~/Downloads`, `/Volumes`, ein Ordner ab dem aktuellen oder der Pfad zu einer Datei, die dann markiert wird.</p><h3>Behoben</h3><p>• <b>Seitenleiste unter den Fensterknöpfen:</b> Beim Rollen liefen die Einträge der Seitenleiste unter die drei Fensterknöpfe. Sie enden jetzt darunter.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.9.5/Porter-v0.9.5-macOS.zip" length="3874806" type="application/octet-stream" sparkle:edSignature="t+6/gXwa2/8pRuf1qitYqzvYPF93S0OSsm/HlezAPPdzrrJfheDwklwvykZxVbjWEHNF9h413OrtIssWyPuDBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: +4xhYYYak5DP24Jd74fvXv5A75rItebwk+d6182K6gVJrwc0IQB5s7n1LuPRSBZ/KEPVDXEAiq7q58j8ICLEDw==
-length: 1462
+edSignature: ViW+zCamzssaVIMgA/xCnohk8O71M5Eu15SH+YVcarkeJcE008YA1OgpTMOlaYrmFM6eWhGnSK6pTn+FnhiABA==
+length: 1641
 -->
