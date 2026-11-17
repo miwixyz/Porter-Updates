@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.9.5</title>
-            <pubDate>Tue, 17 Nov 2026 11:55:54 +0100</pubDate>
+            <title>0.9.6</title>
+            <pubDate>Tue, 17 Nov 2026 12:53:36 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>44</sparkle:version>
-            <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>0.9.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Pfad eingeben per Klick:</b> Ein Klick auf den Ordnernamen im Spaltenkopf öffnet „Gehe zu Ordner“ (wie command-shift-G). Dort geht `~/Downloads`, `/Volumes`, ein Ordner ab dem aktuellen oder der Pfad zu einer Datei, die dann markiert wird.</p><h3>Behoben</h3><p>• <b>Seitenleiste unter den Fensterknöpfen:</b> Beim Rollen liefen die Einträge der Seitenleiste unter die drei Fensterknöpfe. Sie enden jetzt darunter.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.9.5/Porter-v0.9.5-macOS.zip" length="3874806" type="application/octet-stream" sparkle:edSignature="t+6/gXwa2/8pRuf1qitYqzvYPF93S0OSsm/HlezAPPdzrrJfheDwklwvykZxVbjWEHNF9h413OrtIssWyPuDBg=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Behoben</h3><p>• <b>Liste ließ sich nicht rollen, hohe CPU-Last:</b> Porter beobachtete den angezeigten Ordner samt aller Unterordner. Im Benutzerordner lösten Programme in `~/Library` mehrmals pro Sekunde ein Neuladen aus. Die Liste sprang dabei jedes Mal nach oben, Porter brauchte im Leerlauf über 100 % CPU. Jetzt zählen nur Änderungen direkt im Ordner, mehrere werden zu einem Neuladen gebündelt, und nur der sichtbare Tab jeder Spalte wird beobachtet. Lädt ein Ordner neu, bleibt die Rollposition stehen. Gemessen im Leerlauf mit dem Benutzerordner offen: 1,4 % statt 125 % CPU.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.9.6/Porter-v0.9.6-macOS.zip" length="3882899" type="application/octet-stream" sparkle:edSignature="FeywLTiTWFnj0rlRkJzoH8el9KHHHIDxhbgFMKJ0Wmjlos1RqKMDtyUogh6uC+oAQLm4FoFF1zOrYIzr/+5bDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ViW+zCamzssaVIMgA/xCnohk8O71M5Eu15SH+YVcarkeJcE008YA1OgpTMOlaYrmFM6eWhGnSK6pTn+FnhiABA==
-length: 1641
+edSignature: P7fg/ZadneXJsrvqYENvVBwR2wHJK9Lbj5d+ATTlqQh5gfn/WQG21Vw651RnKd20jQ2mKaOW4AZCUmzzmQ69DA==
+length: 1792
 -->
