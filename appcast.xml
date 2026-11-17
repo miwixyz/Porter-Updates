@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.9.6</title>
-            <pubDate>Tue, 17 Nov 2026 12:53:36 +0100</pubDate>
+            <title>0.9.7</title>
+            <pubDate>Tue, 17 Nov 2026 13:23:20 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>45</sparkle:version>
-            <sparkle:shortVersionString>0.9.6</sparkle:shortVersionString>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>0.9.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Behoben</h3><p>• <b>Liste ließ sich nicht rollen, hohe CPU-Last:</b> Porter beobachtete den angezeigten Ordner samt aller Unterordner. Im Benutzerordner lösten Programme in `~/Library` mehrmals pro Sekunde ein Neuladen aus. Die Liste sprang dabei jedes Mal nach oben, Porter brauchte im Leerlauf über 100 % CPU. Jetzt zählen nur Änderungen direkt im Ordner, mehrere werden zu einem Neuladen gebündelt, und nur der sichtbare Tab jeder Spalte wird beobachtet. Lädt ein Ordner neu, bleibt die Rollposition stehen. Gemessen im Leerlauf mit dem Benutzerordner offen: 1,4 % statt 125 % CPU.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.9.6/Porter-v0.9.6-macOS.zip" length="3882899" type="application/octet-stream" sparkle:edSignature="FeywLTiTWFnj0rlRkJzoH8el9KHHHIDxhbgFMKJ0Wmjlos1RqKMDtyUogh6uC+oAQLm4FoFF1zOrYIzr/+5bDA=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Einstellungen:</b> Menü „Porter“ → „Einstellungen …“ (command-Komma) sammelt die Schalter an einem Ort: Archiv nach dem Entpacken in den Papierkorb, Porter statt Finder für „Im Finder zeigen“ und Symbol in der Menüleiste. Die bisherigen Menüeinträge bleiben.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.9.7/Porter-v0.9.7-macOS.zip" length="3889735" type="application/octet-stream" sparkle:edSignature="RNc77LHJdUtt67UtsDhgiEynEjPJytvqahtoJmOVGu6wljyXlez2KaDOQVOd9/g/iFi21AFRkLmwXbGSL3P7AA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: P7fg/ZadneXJsrvqYENvVBwR2wHJK9Lbj5d+ATTlqQh5gfn/WQG21Vw651RnKd20jQ2mKaOW4AZCUmzzmQ69DA==
-length: 1792
+edSignature: HkIfPd5R3JQkMcB+FA4SqvjSQdH6X23LrrzEAHwDqZ5cmF10l2J3fkE7FIHW5+g7MqMgA032hjMG08UGC0SyDA==
+length: 1496
 -->
