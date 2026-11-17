@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.9.7</title>
-            <pubDate>Tue, 17 Nov 2026 13:23:20 +0100</pubDate>
+            <title>0.9.8</title>
+            <pubDate>Tue, 17 Nov 2026 16:47:37 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>46</sparkle:version>
-            <sparkle:shortVersionString>0.9.7</sparkle:shortVersionString>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>0.9.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Einstellungen:</b> Menü „Porter“ → „Einstellungen …“ (command-Komma) sammelt die Schalter an einem Ort: Archiv nach dem Entpacken in den Papierkorb, Porter statt Finder für „Im Finder zeigen“ und Symbol in der Menüleiste. Die bisherigen Menüeinträge bleiben.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.9.7/Porter-v0.9.7-macOS.zip" length="3889735" type="application/octet-stream" sparkle:edSignature="RNc77LHJdUtt67UtsDhgiEynEjPJytvqahtoJmOVGu6wljyXlez2KaDOQVOd9/g/iFi21AFRkLmwXbGSL3P7AA=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>In einen Favoriten verschieben:</b> Dateien und Ordner mitten auf einen Favoriten in der Seitenleiste ziehen verschiebt sie in diesen Ordner, mit gedrückter option-Taste wird kopiert. Die Zeile zeigt dabei einen Rand. Zwischen zwei Favoriten abgelegt, entsteht wie bisher ein neuer Favorit.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.9.8/Porter-v0.9.8-macOS.zip" length="3844877" type="application/octet-stream" sparkle:edSignature="2V2tmeftFRwmIEeh/hvLeUWuTXWx/gau01pDE7JoWINYQKsELTslpfzeB+T3RYyKCHllcSaTEz4mMKp6e44RCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: HkIfPd5R3JQkMcB+FA4SqvjSQdH6X23LrrzEAHwDqZ5cmF10l2J3fkE7FIHW5+g7MqMgA032hjMG08UGC0SyDA==
-length: 1496
+edSignature: bhYlWy9ZRU3kjvRBq/z/2NH3Chsev5cRfYoAF7qr80rqVUVSNt86d6zux6QFr0cq0uU2LY7lktpASTw41+LkCw==
+length: 1508
 -->
