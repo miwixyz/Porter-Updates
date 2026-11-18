@@ -9,7 +9,7 @@ Porter ist ein Dateimanager mit zwei Spalten für macOS 27. Links ein Ordner, re
 ## Was Porter kann
 
 ### Zwei Spalten
-- Tab wechselt die Spalte, ein Klick irgendwo hinein auch. F5 kopiert, F6 verschiebt, F2 benennt um, F7 legt einen Ordner an, F8 wirft in den Papierkorb. Liegt am Ziel schon eine Datei mit dem Namen, fragt Porter vorher.
+- Tab wechselt die Spalte, ein Klick irgendwo hinein auch. F5 kopiert, F6 verschiebt, F2 benennt um, F7 legt einen Ordner an, F8 wirft in den Papierkorb. Liegt am Ziel schon eine Datei mit dem Namen, fragt Porter vorher. command-Z nimmt den letzten Schritt zurück, also Umbenennen, Verschieben, Kopieren oder Papierkorb.
 - Dateien ziehst du aus der anderen Spalte oder aus einer anderen App hinein, auch direkt auf einen Tab. Mit command-C und command-V kopierst du, mit command-X und command-V verschiebst du.
 - Jede Spalte hat Tabs. Die ziehst du mit der Maus in die Reihenfolge, die du willst, und Porter merkt sie sich. Dazu Zurück und Vor und eine Pfadleiste, deren Glieder du anklicken kannst. Die Leertaste öffnet Quick Look.
 - In der Seitenleiste stehen deine Favoriten (hineinziehen, umsortieren), die Laufwerke mit Auswerfen-Knopf und iCloud sowie andere Cloud-Ordner. Auch einzelne Dateien kannst du dort ablegen oder per Rechtsklick hinzufügen. Sie stehen dann im Block „Dateien“ und gehen mit einem Klick auf. Wie breit die Leiste ist, stellst du am rechten Rand ein.
@@ -17,7 +17,7 @@ Porter ist ein Dateimanager mit zwei Spalten für macOS 27. Links ein Ordner, re
 
 ### Suchen und entpacken
 - command-F öffnet die Suche. Beim Tippen bleiben nur die Dateien stehen, deren Name passt. Im Menü daneben stellst du ein, wie weit Porter sucht: nur im Ordner, im ganzen Ordnerbaum oder auf allen Laufwerken. Die beiden weiten Suchen laufen über Spotlight, die Treffer stehen nach Ordner sortiert untereinander. Laufwerke ohne Spotlight-Index tauchen dabei nicht auf, und frisch angelegte Dateien findet Spotlight erst nach einer Weile.
-- Doppelklick auf ein ZIP-, 7z- oder RAR-Archiv, und Porter packt es selbst aus. Ein Finder-Fenster geht dabei nicht auf. Der Inhalt liegt danach neben dem Archiv und ist markiert, auch Archive mit Passwort klappen. Dafür braucht Porter das kostenlose 7-Zip (`brew install sevenzip`).
+- Doppelklick auf ein ZIP-, 7z- oder RAR-Archiv, und Porter packt es selbst aus. Ein Finder-Fenster geht dabei nicht auf. Der Inhalt liegt danach neben dem Archiv und ist markiert, auch Archive mit Passwort klappen. Das nötige 7-Zip bringt Porter mit, installieren musst du nichts.
 
 ### Aufräumen
 
