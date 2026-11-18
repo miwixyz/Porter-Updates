@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.9.9</title>
-            <pubDate>Wed, 18 Nov 2026 16:20:30 +0100</pubDate>
+            <title>0.10.0</title>
+            <pubDate>Wed, 18 Nov 2026 17:30:27 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>50</sparkle:version>
-            <sparkle:shortVersionString>0.9.9</sparkle:shortVersionString>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Behoben</h3><p>• <b>Packen und Entpacken nehmen keine fremden Dateien mehr mit:</b> Ein `*` oder `?` im Dateinamen wirkte bei 7-Zip als Platzhalter. Wer `Gehalt*` packte, hatte auch `Gehalt-2026.pdf` im Archiv; `a*.zip` entpackte auch das Nachbararchiv.</p><p>• <b>Archive mit `*` im Namen entpacken:</b> landeten bisher in einem unsichtbaren Ordner, und Porter meldete „Das Archiv ist leer“.</p><p>• <b>Notizen von einem anderen Mac gehen nicht mehr verloren:</b> Ließ sich eine iCloud-Konfliktfassung nicht lesen, wurde sie bisher still gelöscht. Jetzt ändert Porter nichts und bittet, es gleich noch einmal zu versuchen.</p><p>• <b>Ordner durch den eigenen Unterordner ersetzen geht nicht mehr:</b> `Projekt/Projekt` eine Ebene hoch mit „Ersetzen“ legte den äußeren Ordner samt Inhalt in den Papierkorb. Porter lehnt das jetzt ab, wie der Finder.</p><p>• <b>Packen großer Ordner:</b> bricht nicht mehr nach 2 Minuten ab (jetzt 30 Minuten wie beim Entpacken), und „Abbrechen“ wirkt mitten im Packen.</p><p>• <b>Aufräumen:</b> Abbrechen und Fenster schließen stoppen das Durchsuchen sofort, statt es im Hintergrund zu Ende laufen zu lassen.</p><p>• <b>Speicher:</b> Die Fenster Aufräumen, Massenumbenennen und Alle Notizen bleiben nach dem Schließen nicht mehr im Speicher.</p><p>• <b>F5, F6 und F8 während eines laufenden Vorgangs:</b> melden jetzt „Erst den laufenden Vorgang abwarten.“ statt stumm nichts zu tun.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.9.9/Porter-v0.9.9-macOS.zip" length="3845634" type="application/octet-stream" sparkle:edSignature="WCNK8jYUO16JxoCytxJTyEDS63ISi0I4ADDvivYkoBX/FWByurlweDb6F7oOos3XR/ngqH2ADiTYr7wiqSlcBg=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Rückgängig mit command-Z:</b> nimmt den letzten Vorgang in der Dateiliste zurück. Umbenannte Dateien bekommen den alten Namen, Verschobenes kommt an den alten Platz, Kopien gehen in den Papierkorb, Dateien aus dem Papierkorb kommen zurück, ein neuer Ordner verschwindet wieder, solange er leer ist. Liegt am alten Platz inzwischen etwas Gleichnamiges, wird nichts überschrieben, und Porter sagt es. Nach „Ersetzen“ gibt es kein Rückgängig. In der Suche und beim Umbenennen in der Zeile bleibt command-Z das Rückgängig für den Text.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.10.0/Porter-v0.10.0-macOS.zip" length="3855473" type="application/octet-stream" sparkle:edSignature="aMUXbI8E6KLNgFXafOV/c6itiMpm+n0+TeKeLP97MrujkKSchlTrZb365ZuVCwCX7JzCNbQ7yY5+kOs5iMDmBA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: om27azKNZ3VEeXWsgT0rnPssU/yAZrVGWdzSGPtsx2H5rQppXTc7UaU2U5Tf0F4iPCBgJpNEsxmne4jThl4CAg==
-length: 2658
+edSignature: 0H35zevIIu5FJBqlAu9TAsX3ZbyT2XVL1qX0c4hXs/efgOKM70K6xbK9+mfcoTJ1nsmbhfhSuxqldva+fqhyDQ==
+length: 1766
 -->
