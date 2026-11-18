@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>0.12.0</title>
-            <pubDate>Wed, 18 Nov 2026 18:29:03 +0100</pubDate>
+            <title>0.12.1</title>
+            <pubDate>Wed, 18 Nov 2026 18:56:55 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>54</sparkle:version>
-            <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+            <sparkle:version>55</sparkle:version>
+            <sparkle:shortVersionString>0.12.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Geändert</h3><p>• <b>WebP und SVG ohne Zusatzprogramme:</b> „Umwandeln → WebP“ und „Umwandeln → SVG“ brauchen nichts mehr aus Homebrew oder Cargo (bisher `brew install webp` und `cargo install vtracer`). WebP schreibt Porter jetzt selbst, das Programm für SVG (vtracer 0.6.4) liegt signiert und notarisiert in Porter. WebP-Dateien werden dabei etwa so groß wie bisher.</p><h3>Sicherheit</h3><p>• Porter startet keine Programme mehr aus Ordnern, in die andere Programme schreiben können. Nach 7-Zip in 0.11.0 gilt das jetzt auch für WebP und SVG.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.12.0/Porter-v0.12.0-macOS.zip" length="5904065" type="application/octet-stream" sparkle:edSignature="0Oq9/Vi+79nt3Fmt1m406BqeeUXab6fBuBOuE9S1J+xp3sKiIf2nWzzF0Sh+/wXCiOT8kPMELiOH02vymCfhDg=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Behoben</h3><p>• <b>Massenumbenennen aus der Suche:</b> Liegen die Treffer in verschiedenen Ordnern, prüft Porter Namensgleichheit jetzt je Ordner. Bisher meldete es zum Beispiel „doppelt im Plan“, wenn in zwei Ordnern dieselbe Datei gleich umbenannt werden sollte, und übersah einen gleichnamigen Eintrag im jeweiligen Ordner. Notizen wandern jetzt an die richtige Datei, vorher konnte eine Notiz bei einer gleichnamigen Datei im Ordner des Tabs landen. Nach dem Umbenennen bleiben alle Treffer im Fenster stehen.</p><p>• Die Vorschau im Massenumbenennen liest die Ordner nur noch einmal statt bei jeder Eingabe.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v0.12.1/Porter-v0.12.1-macOS.zip" length="5904958" type="application/octet-stream" sparkle:edSignature="BpSSK/pfRAa310YWgufXAUTxj3QId1RhP2TNC6Q3Clc+wvbegQ510wNk/TAjRZqYcXJPTgxwu4GKJyo/XcnlCQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: xsDnu7+6bbZKmRomWe9UsM/UCqf3gzROSn/yf5+M8LODzqY1n+wNeeISJ9+Zk2ojERy/F/UsaOr/jiH+b+beDw==
-length: 1769
+edSignature: t1tc+P+RpW4ObNQvhcHi1fYDlctEvtCgnkCC9S6k/EGy+BG8fBKDg/AZeWsXpwN0W96xd8tCIhLiUrGp4wxeAA==
+length: 1826
 -->
