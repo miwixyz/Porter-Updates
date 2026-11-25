@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Mon, 23 Nov 2026 10:05:50 +0100</pubDate>
+            <title>1.1.0</title>
+            <pubDate>Wed, 25 Nov 2026 19:14:17 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>58</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:version>61</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Behoben</h3><p>• <b>Apps mit Framework lassen sich wieder entpacken:</b> ZIPs mit Programmen wie Knippi, die Sparkle oder ein anderes Framework mit Versionsordner enthalten, endeten mit „Das Archiv ist beschädigt oder enthält gefährliche Pfade“. Das Archiv war in Ordnung; 7-Zip hielt die üblichen Verweise im Framework (`Autoupdate` → `Versions/Current/Autoupdate`) für gefährlich. Verweise nach außerhalb des Zielordners lehnt Porter weiterhin ab.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v1.0.1/Porter-v1.0.1-macOS.zip" length="5912535" type="application/octet-stream" sparkle:edSignature="RPWDBQyNjBVogWY6IhWYgvVYua8GjUom91QT1RhHeZ4nORVXVgeM21mUf2+xk3FemYtnoEBmWCDdw2sup0jkBA=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Neu</h3><p>• <b>Kopien werden geprüft:</b> Nach jedem Kopieren (F5, Ablegen, Einfügen, Kopie im selben Ordner, „Ersetzen“) liest Porter Original und Kopie und vergleicht den Inhalt (Größe und SHA-256, Ordner Eintrag für Eintrag). Weicht die Kopie ab, kommt sie in den Papierkorb, das Original bleibt unberührt, und die Meldung nennt die erste Abweichung. Das dauert bei großen Ordnern länger; Rechte, Datumsangaben und erweiterte Attribute werden nicht verglichen.</p><p>• <b>Ordner aus der Pfadleiste ziehen:</b> Jedes Glied lässt sich wie im Finder herausziehen, in ein Finder-Fenster, eine andere App oder die andere Spalte. Porter reicht nur die Adresse des Ordners weiter, was beim Ablegen passiert, entscheidet das Ziel.</p><p>• <b>Ablage zum Sammeln (Drop Stack):</b> Dateien und Ordner aus verschiedenen Ordnern in eine Leiste legen (command-option-A, Rechtsklick „Zur Ablage hinzufügen“ oder auf die Leiste ziehen), dann mit „Hierher kopieren“ oder „Hierher verschieben“ in den Ordner der aktiven Spalte bringen. Läuft über denselben geprüften Weg wie F5/F6. Die Ablage hält nur Adressen (höchstens 200) und nur bis zum Beenden von Porter.</p><h3>Geändert</h3><p>• <b>Verschieben auf ein anderes Laufwerk oder in einen Cloud-Ordner</b> (Google Drive, OneDrive und andere Anbieter unter „CloudStorage“) heißt jetzt: kopieren, prüfen, dann das Original in den Papierkorb. Geht das Original nicht in den Papierkorb (z. B. Netzlaufwerk), bleibt es liegen, die geprüfte Kopie liegt im Ziel, und Porter sagt das.</p><h3>Behoben</h3><p>• <b>Verschieben auf ein anderes Laufwerk löschte das Original am Papierkorb vorbei:</b> macOS kopiert dabei selbst und entfernt die Quelle endgültig. Das widersprach der Regel „nichts wird endgültig gelöscht“. Dasselbe galt für command-Z nach so einem Verschieben.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v1.1.0/Porter-v1.1.0-macOS.zip" length="5941722" type="application/octet-stream" sparkle:edSignature="H+HC/KR4CujRiMYcP3JBMsMTkmzy/huEafeZgRCWLKJ1IJi1SuHTiE1tJHmXlByw7o+zb8jZkSosjLIxZX8nCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: rAcxp+zyu1qhsZpc/Bh64JntGzBt4LMK190k4V0WHQdGhgm6spAdymaWNgGtg5TzbtcnhdTPUlpIfbndIK3KAQ==
-length: 1663
+edSignature: 75UfE8WRiEqwlXlfTbSXX+doKl4pW+OPeg8Tx3BFKBlLJA3js6K7YjDrcxlFDd0S4DSQLBvGvnoLtN6SYrgkBw==
+length: 3060
 -->
