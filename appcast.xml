@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Porter</title>
         <item>
-            <title>1.1.1</title>
-            <pubDate>Wed, 25 Nov 2026 19:40:48 +0100</pubDate>
+            <title>1.1.2</title>
+            <pubDate>Wed, 25 Nov 2026 20:24:17 +0100</pubDate>
             <link>https://github.com/miwixyz/Porter-Updates</link>
-            <sparkle:version>62</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:version>63</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Geändert</h3><p>• <b>Pfadleiste in ein Finder-Fenster ziehen öffnet den Ordner,</b> statt ihn dorthin zu kopieren. Porter bietet dem Finder beim Ziehen nach außen nichts mehr zum Übernehmen an und öffnet den Ordner selbst im Finder, wenn du ihn über einem Finder-Fenster loslässt. Innerhalb von Porter (andere Spalte, anderes Glied) bleibt das Ziehen wie bisher.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v1.1.1/Porter-v1.1.1-macOS.zip" length="5948535" type="application/octet-stream" sparkle:edSignature="O8dkYpcpElxy3zcUkuHfza8YZj0tMoK0cAPN5vPFW4MTm0UScaDTntJYLC1BFCntJbC9lVxySX6lKgK1UtzTBQ=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Geändert</h3><p>• <b>Pfadleiste auf ein Finder-Fenster ziehen zeigt den Ordner in genau diesem Fenster,</b> statt ein neues zu öffnen, und holt das Fenster nach vorn. Dafür sendet Porter Apple Events an den Finder (nur „dieses Fenster auf diesen Ordner stellen“, mehr nicht); macOS fragt beim ersten Mal „Porter möchte Finder steuern“. Ohne Erlaubnis oder wenn kein Fenster passt, öffnet sich wie bisher ein neues Finder-Fenster. In der Spaltenansicht sieht der geöffnete Ordner wie bei Finders Doppelklick aus: markiert in der Spalte davor, sein Inhalt daneben.</p><h3>Behoben</h3><p>• <b>Pfadleiste in den Finder ziehen tat nichts,</b> wenn ein bildschirmgroßes Fenster eines anderen Programms (z. B. die Abdunkel-Fläche von Seam) vor dem Finder-Fenster lag. Solche Überlagerungen zählen jetzt nicht als Fenster zum Ablegen.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/Porter-Updates/releases/download/v1.1.2/Porter-v1.1.2-macOS.zip" length="5955363" type="application/octet-stream" sparkle:edSignature="egVUq1v063rM9hSFRJCK0Rcj0vsBZgM8WzCnp3rmC8lCwtsj/f/Mv6AGDm9EX55ih1I3hc+3FPcu3WWOnKe5Dw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: NV5YpvXeHSIgB06D493PpDulWUwpcb2Zl76MINANyhhzV/Z5pDSRPstYcifBru9rYkASxrCHTByEO7YsWUhiCQ==
-length: 1570
+edSignature: cNZRwmKiiHl0Z3oadxz5WALUaCfhgC5aNE43NN1NHAlLwxuVQ9wvjS/GLONLDRM8GdrIv94JdNQ7zbMXdN5BAQ==
+length: 2047
 -->
