@@ -21,6 +21,13 @@ Porter ist ein Dateimanager mit zwei Spalten für macOS 27. Links ein Ordner, re
 - command-F öffnet die Suche. Beim Tippen bleiben nur die Dateien stehen, deren Name passt. Im Menü daneben stellst du ein, wie weit Porter sucht: nur im Ordner, im ganzen Ordnerbaum oder auf allen Laufwerken. Die beiden weiten Suchen laufen über Spotlight, die Treffer stehen nach Ordner sortiert untereinander. Laufwerke ohne Spotlight-Index tauchen dabei nicht auf, und frisch angelegte Dateien findet Spotlight erst nach einer Weile.
 - Doppelklick auf ein ZIP-, 7z- oder RAR-Archiv, und Porter packt es selbst aus. Ein Finder-Fenster geht dabei nicht auf. Der Inhalt liegt danach neben dem Archiv und ist markiert, auch Archive mit Passwort klappen. Das nötige 7-Zip bringt Porter mit, installieren musst du nichts.
 
+### Schnellsprung
+- Ein Tastenkürzel deiner Wahl öffnet von überall ein Suchfeld, auch wenn gerade eine andere App vorn ist. Ein paar Buchstaben eines Ordnernamens tippen, return öffnet ihn in Porter, command-return in einem neuen Tab, option-return im Finder.
+- Oben stehen deine Favoriten und die Ordner, in denen du zuletzt warst. Danach Laufwerke und Cloud-Ordner, und zuletzt, was Spotlight in deinem Benutzerordner und auf den Laufwerken findet. Systemordner und die Arbeitsordner von Entwicklerwerkzeugen lässt Porter weg.
+- Das Kürzel nimmst du in den Einstellungen auf. Überdeckt es ein Kürzel anderer Apps, etwa command-Komma, steht dort eine Warnung.
+- Lieber klicken als tippen? Dann leg dir den schwebenden Knopf mit dem Porter-Symbol hin. Er liegt über allen Fenstern, auch auf anderen Schreibtischen, und bleibt dort, wohin du ihn ziehst. Ein Klick öffnet die Suche oder, wenn du das einstellst, das Porter-Fenster.
+- Ab Werk ist das alles aus.
+
 ### Aufräumen
 
 ![Duplikate finden](bilder/porter-aufraeumen.png)
@@ -48,6 +55,7 @@ Porter ist ein Dateimanager mit zwei Spalten für macOS 27. Links ein Ordner, re
 - Der Rechtsklick kann, was man vom Finder kennt: Öffnen mit, Teilen, Dienste, Pfad kopieren, Terminal hier öffnen, Informationen.
 - „Neue Datei“ (option-command-N) legt eine leere Datei im Ordner an und überschreibt nie eine vorhandene. „Zwischenablage als Datei sichern“ macht aus kopiertem Text eine .txt und aus einem kopierten Bild ein PNG.
 - Ein Symbol in der Menüleiste führt zu Favoriten und Laufwerken. Wer es nicht mag, schaltet es ab.
+- Auf Wunsch spielt Porter einen kurzen Ton, wenn ein Kopieren oder Verschieben fertig ist. Bei einem Fehler bleibt es still.
 - Auf Wunsch übernimmt Porter „Im Finder zeigen“: Klickst du in Safari, Mail oder einer anderen App darauf, öffnet sich Porter mit der markierten Datei. Ganz ersetzen lässt sich der Finder nicht. Schreibtisch, Dock und Ordner, die andere Apps öffnen, bleiben bei ihm, das gibt macOS so vor. Ausschalten im Porter-Menü holt den Finder zurück.
 - command-Plus und command-Minus machen die Schrift größer oder kleiner. Porter merkt sich die Größe.
 - Ist ein Dateiname zu lang für die Spalte, zeigt Porter ihn beim Darüberfahren ganz.
@@ -70,7 +78,7 @@ In der App unter **Porter → Nach Updates suchen …**. Beim zweiten Start frag
 
 ## Datenschutz
 
-Porter schickt nichts über dich oder deine Dateien irgendwohin. Es gibt kein Konto und keine Nutzungsstatistik. Die einzige Verbindung ins Netz ist die Update-Suche hier bei GitHub. Notizen schreibt Porter in eine Datei in deinem iCloud Drive, die iCloud wie jede andere Datei dort zwischen deinen Macs abgleicht. Passwörter und Kontodaten gehören deshalb nicht in eine Notiz. Für Erinnerungen fragt macOS beim ersten Mal nach dem Zugriff. Apple vergibt dafür nur Lese- und Schreibrecht zusammen, Porter legt aber nur an und liest deine Erinnerungen nicht.
+Porter schickt nichts über dich oder deine Dateien irgendwohin. Es gibt kein Konto und keine Nutzungsstatistik. Die einzige Verbindung ins Netz ist die Update-Suche hier bei GitHub. Notizen schreibt Porter in eine Datei in deinem iCloud Drive, die iCloud wie jede andere Datei dort zwischen deinen Macs abgleicht. Passwörter und Kontodaten gehören deshalb nicht in eine Notiz. Für den Schnellsprung merkt sich Porter die letzten 50 Ordner, in denen du warst, nur als Pfad und nur auf diesem Mac. In den Einstellungen leerst du die Liste. Für Erinnerungen fragt macOS beim ersten Mal nach dem Zugriff. Apple vergibt dafür nur Lese- und Schreibrecht zusammen, Porter legt aber nur an und liest deine Erinnerungen nicht.
 
 ## Was in diesem Repo liegt
 
